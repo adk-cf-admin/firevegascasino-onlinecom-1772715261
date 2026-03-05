@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1A1A1A",
+            "lang-select-color": "#222829",
+            "bg-light": "#1A1A1A",
+            "welcome-bonus-bg": "#1A1A1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#353535",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#8524F3",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#BA8F4C",
+            "yellow": "#8524F3",
+            "yellow-button": "#BA8F4C",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#8524F3",
+            "casino-cards": "#1A1A1A",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#8524F3",
+            "providers-back": "#1A1A1A",
+            "faq-label": "#1A1A1A",
+            "bg-footer": "#1A1A1A",
+            "copyright": "#e7e7d5",
+            "starColor": "#8524F3",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3910"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3912",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "FireVegas Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3913",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "FireVegas"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "FireVegas",
+                    "title": "FireVegas: 3,000+ Games, Up to $400 Bonus & Daily Tournaments",
+                    "description": "Discover FireVegas with slots, live casino and game shows, a welcome offer up to $400 plus spins, a smooth cashier, tournaments and leaderboards, helpful support, and responsible gaming tools.",
+                    "canonical": "firevegascasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3915",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "firevegascasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3916"
+                },
+                "hero": {
+                    "title": "FireVegas — Games, Bonuses & Fast Payouts",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3914",
+                    "imageSizeModifier": 5,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3917",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "3,000+ games: slots, live, shows",
+                        "Generous welcome pack: up to $400 + spins",
+                        "Fast payouts after withdrawal approval",
+                        "Frequent tournaments with steady prize pools",
+                        "High max wins across top slots",
+                        "Bet limits fit every bankroll size",
+                        "Secure payments with strict verification"
+                    ],
+                    "advantagesAfterText": "We focus on variety, clear rules, and a smooth experience on any device. It’s easy to start, fun to play longer, and rewarding to come back thanks to bonuses, events, and tailored offers.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "FireVegas App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3918",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "FireVegas App",
+                    "mobileGooglePlayImageTitle": "FireVegas App",
+                    "mobileIosImageTitle": "FireVegas App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About FireVegas",
+                        "description1": "We stand out with a huge game library and an active schedule of tournaments and events. We also deliver a smooth mobile experience and an easy-to-use cashier.\n",
+                        "items": [
+                            "Up to $400 + spins.",
+                            "Wins up to $250,000\/spin.",
+                            "Fast payouts after approval."
+                        ],
+                        "description2": "We are FireVegas, and everything we do is built around excitement and player comfort. From the first visit, you enter a lobby with thousands of games where it’s easy to find favourite slots, classic table titles, and live tables with professional hosts. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3919",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We regularly add new releases and maintain themed collections by mechanics and popularity, so you can discover the right game faster. If you love show-like energy, our live game shows bring pace and real entertainment vibes. Our starter bonus program helps you begin confidently: you receive a deposit match and bonus spins to explore top slots and chase early big wins. After that, our regular promotions keep the momentum with reloads, missions, free spins, and themed events. Throughout the week we run tournaments and leaderboards where you compete by spins or wagering volume and claim prizes from a shared pool. We also invest in variety: seasonal campaigns, provider spotlight days, and curated game lists with boosted reward dynamics. Our loyalty program rewards your activity — you collect points, unlock tiers, and receive benefits that make play more rewarding. We keep the cashier simple: deposits are quick and withdrawals are requested in a few clicks. Security is a core principle, so we use modern data protection methods and identity checks to ensure payouts reach the rightful account holder. Our support team assists with the essentials and stays with you from signup to cashout. We promote responsible play and provide self-control tools such as limits, time-outs, and self-exclusion. The result is a space where massive choice, ongoing rewards, and smooth gameplay come together at your pace.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "FireVegas: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nFireVegas House Rules: safe, fair, comfortable play\n<\/h3>\n\n<p>\nWe keep our rules clear so gaming stays enjoyable entertainment. Access is available to adults only, and registration details must be real and up to date. We follow the “one player — one account” principle to keep bonuses and tournaments fair. Before the first withdrawal, we complete a standard identity check to protect your balance and prevent fraud. All payments must be made with methods where you are the rightful owner of the funds source. We expect fair play and do not allow third‑party tools that affect gameplay outcomes. While bonuses are active, a max bet limit applies to keep wagering transparent. We treat every player with respect and expect the same toward our support team. To protect the community, we may restrict access when we detect abuse or suspicious activity. Responsible play matters to us, so we provide control tools to manage time and budget. You can always take a break or fully restrict access when needed. Our goal is a safe environment where winnings are paid according to rules and the experience stays positive.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess & Account Use\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge & eligibility: adults only\n\n<\/li>\n            <li>• \nReal details: name and contacts must match documents\n\n<\/li>\n            <li>• \nOne account policy: one profile per player\n\n<\/li>\n            <li>• \nVerification: required before withdrawals and for large amounts\n\n<\/li>\n\t    <li>• \nPayments: use only your own cards\/wallets\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited Actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nNo multi‑accounts or bonus‑rule circumvention\n\n<\/li>\n            <li>• \nNo bots, scripts, or game interference\n\n<\/li>\n            <li>• \nNo impersonation or third‑party documents\n\n<\/li>\n            <li>• \nNo abusive behaviour in chat\/support\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible Play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSet deposit, stake, and session limits\n\n<\/li>\n            <li>• \nUse time‑outs when you need a break\n\n<\/li>\n            <li>• \nChoose self‑exclusion if necessary\n\n<\/li>\n            <li>• \nPlay for fun, not to chase losses\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSecurity, licensing & privacy: how we protect players\n\n<\/h3>\n\n<p>\nWe operate within a regulated environment and follow strict standards for fair play and user protection. Our operations are built on transparency: payout rules, bonus terms, and verification steps are defined upfront and applied consistently. Licensing requirements push us to enforce age control, responsible gaming measures, and proper handling of financial transactions. We use compliance procedures to keep gameplay fair and calculations accurate. For you, that means predictability: straightforward registration, a clear cashier, and a protected account area.\n\n<\/p>\n<br>\n\n\n<p>\nData protection starts with our technical infrastructure: we use modern encryption to secure information sent between your device and our servers. This helps prevent interception and reduces the risk of leaks during online activity. Access to critical systems is role‑restricted, and actions in sensitive areas are logged for auditing. We regularly update platform components and strengthen security to meet current industry standards. We also monitor suspicious activity to protect accounts from unauthorised access.\n\n<\/p>\n<br>\n<p>\nPrivacy is not a formality for us — it’s a set of practical rules for handling personal data. We collect only what is necessary to create an account, process payments, and meet security requirements. Your data is used strictly for service, support, identity checks, and fraud prevention. We do not sell personal information or use it against your interests. You control your profile: you can update contact details and manage certain communication preferences.\n\n<\/p>\n<br>\n<p>\nFinancial safety is supported by a combination of technology and procedures. We verify payment sources and, when needed, request identity confirmation so withdrawals reach the rightful account owner. All operations run through a protected cashier, and transaction statuses are visible in your account. Our anti‑fraud checks detect unusual patterns and help safeguard your balance. These measures reduce the risk of chargebacks, disputed payments, and external interference.\n\n<\/p>\n<br>\n<p>\nA separate layer of protection is game fairness. We work with established providers and use titles with certified RNG for virtual games. In live casino, outcomes are driven by real dealer actions and on‑camera gameplay, streamed in high quality. We also provide responsible gaming tools like limits, time‑outs, and self‑exclusion so you stay in control. Together, this creates a reliable environment where you can focus on entertainment and winning.\n\n<\/p>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFireVegas deposits & withdrawals: fast, simple, protected\n<\/h3>\n\n<p> \nWe designed our cashier to be clear and easy so you can fund your account and cash out winnings with minimal steps. Deposits are typically instant, while some bank methods may require a short processing window. Withdrawals are requested from your account area: you choose the method and amount, and your request goes through security checks. We use strong payment protection and anti‑fraud controls to keep transactions accurate. A first‑time verification is completed before your first cashout — it helps protect your account and streamlines future payouts. After approval, arrival time depends on the method: e‑wallets are usually the fastest, while bank transfers follow standard banking timelines. Where required for security, we process withdrawals back to the original funding source. You can track every status step inside the cashier, so you always know where your request stands. Keeping your profile complete and contacts confirmed helps speed up payouts. All limits and method requirements are shown before you confirm a transaction, so everything stays transparent. Our support team can guide you toward the best deposit or withdrawal option when needed.\n\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #8524F3;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Apple Pay<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–2 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>MuchBetter<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Paysafecard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 business days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2–5 business days<\/td>\n    <\/tr>\n\n      <\/tbody>\n<\/table>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMinimums & limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: $10\n\n<\/li>\n            <li>• \nDaily maximum: up to $5,000\n\n<\/li>\n            <li>• \nMonthly maximum: up to $20,000\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFireVegas Support: quick responses, real solutions\n<\/h3>\n\n<p>\nWe built our support to help you exactly when you need it. Live chat is the main channel and works best for fast questions about bonuses, games, and the cashier. For documents and account‑specific details, we use email so everything stays recorded and transparent. Phone support is ideal when speed and a direct explanation matter. In chat, we aim to respond within minutes, and by email we handle requests within standard service windows with urgency‑based priority. We avoid generic replies: we clarify the issue, check statuses, and guide you to the outcome. For payments and verification, we provide step‑by‑step instructions to save your time. If a case is complex, we escalate it to a specialist team and keep you updated. We offer multilingual assistance so you can communicate comfortably. Inside your account, you’ll also find guidance on bonus rules, bet limits, and transaction statuses. Our goal is peace of mind: you play, we handle the operational details.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: instant help for everyday questions\n\n<\/li>\n            <li>• \nEmail: documents, verification, account details\n\n<\/li>\n            <li>• \nPhone: urgent and non‑standard cases\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse time & service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically 1–5 minutes to first reply\n\n<\/li>\n            <li>• \nEmail: typically within 24 hours for most requests\n\n<\/li>\n            <li>• \nQuality: clear steps, follow‑through until resolved\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPrimary: English\n\n<\/li>\n            <li>• \nAdditional: widely used international languages (subject to agent availability)\n\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at FireVegas",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nFireVegas Loyalty Club: tiers, rewards, and member benefits\n<\/h3>\n<p>\nOur loyalty program is designed for players who love coming back for excitement and extra value. You earn points from wagering in most games and redeem them for bonus funds, free spins, and personalised perks. Joining is automatic right after you create an account — no extra forms required. The more you play, the faster you level up, and higher tiers unlock bigger bonuses and better earning rates. We keep it simple: points accrue steadily and appear in your profile in real time. Every tier brings added benefits, from celebration gifts to increased point multipliers. We also tailor offers around your favourite games so rewards feel relevant. For easy redemption, we provide a rewards shop showing the exact point cost for each option. Weekly missions accelerate progress and add extra prizes. Loyalty runs alongside tournaments and promos, so you can earn points and compete at the same time. Most importantly, you always know why you received a reward and how to reach the next tier faster.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to join \n<\/h4>\n\n <ul>\n            <li>• \nCreate an account: enrollment activates automatically\n\n<\/li>\n            <li>• \nVerify email\/phone: unlocks full access to perks\n\n<\/li>\n            <li>• \nComplete verification: enables faster payouts and full rewards\n\n<\/li>\n            <li>• \nPlay with real stakes: points accrue on qualifying games\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBronze (0+ points): entry tier, 1× earn rate\n\n<\/li>\n            <li>• \nSilver (1,000+ points): 1.1× earn rate, $10 monthly gift\n\n<\/li>\n            <li>• \nGold (5,000+ points): 1.25× earn rate, 20 FS weekly\n\n<\/li>\n            <li>• \nPlatinum (15,000+ points): 1.5× earn rate, cashback bonus up to $50\n\n<\/li>\n\t    <li>• \nDiamond (40,000+ points): 2× earn rate, personalised bonuses up to $200\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nClub rewards & perks\n<\/h4>\n\n <ul>\n            <li>• \nRedeem points for bonus: from 1,000 points → $10 bonus funds\n\n<\/li>\n            <li>• \nWeekly free spins: 20–60 FS based on tier\n\n<\/li>\n            <li>• \nEvent gifts: one‑off bonuses $10–$100\n\n<\/li>\n            <li>• \nPoint boosters: 1×–2× by tier\n\n<\/li>\n\t    <li>• \nPersonalised offers: match bonuses 25%–75% on selected slots\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFireVegas bonuses, promos & game events: more value, more excitement\n<\/h3>\n\n<p>\nWe keep entertainment fast‑paced not only through loyalty rewards but also with standalone promotions that refresh regularly. Our welcome package helps you start confidently and adds extra bankroll value for slots and live play. After that, deposit reloads bring frequent balance boosts so you can extend your sessions. For slot fans, we run provider spotlights where selected games get extra free spins or enhanced reward dynamics. In the live section, we host themed nights and prize activities that make every session feel like a mini show. Tournaments are a major highlight: you play your favourite slots, collect points, climb the board, and share a prize pool with top finishers. We also launch missions — complete wagering or spin tasks and collect rewards instantly without waiting for the week to end. For players who enjoy steady play, selected cashback promos support a comfortable style. Seasonal campaigns refresh the vibe with new game selections, special tasks, and limited‑time prizes. We also deliver personalised offers built around your favourite genres to maximise value. The result is always something to do: a quick bonus, a challenge, a tournament, or a themed event — all under clear rules with transparent earning and wagering terms.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPromotions beyond loyalty — what you can get\n\n\n<\/h4>\n\n <ul>\n            <li>• \nWelcome package: up to $400 + up to 60 FS on featured slots\n\n<\/li>\n            <li>• \nReload bonus: 25%–75% deposit match on promo days\n\n<\/li>\n            <li>• \nFree Spins of the Week: 10–50 FS on selected provider titles\n\n<\/li>\n            <li>• \nMissions & quests: $5–$50 rewards for completing tasks\n\n<\/li>\n\t    <li>• \nSlot tournaments: prize pools up to $10,000 per period\n\n<\/li>\n\t    <li>• \nLive leaderboards: prizes up to $2,000 for activity\n\n<\/li>\n\t    <li>• \nPromo cashback: up to 10% on selected days (promo terms apply)\n\n<\/li>\n\t    <li>• \nSeasonal campaigns: one‑off rewards up to $200 plus exclusive tasks\n\n<\/li>\n\t    <li>• \nHappy Hours: boosted rewards in limited time windows\n\n<\/li>\n\t    <li>• \nPersonal offers: tailored match bonuses and spins for your favourite slots\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFireVegas games: slots, live casino, and shows in one lobby\n<\/h3>\n\n<p>\nWe’ve built a broad game selection so you can pick the right format for your mood. Our slots section includes classics, Megaways, cluster mechanics, bonus buy modes, and top titles with high multipliers. Table games feature digital roulette, blackjack, baccarat, and other classics with multiple stake levels. In live casino, you play with real dealers and watch the action in real time, choosing tables that match your pace and budget. A dedicated area offers game shows where speed, bonus rounds, and entertainment take centre stage. We added smart filters by provider, volatility, popularity, and new releases so you can find what you want faster. Many games include demo mode so you can test mechanics before playing for real. We refresh the library regularly with new releases and themed collections. Inside each game, you’ll see key details, including bonus round rules and payout features. For fast‑paced play, we offer instant formats and quick mechanics with back‑to‑back rounds. For classic fans, we keep simple payline slots and traditional tables. Everything runs smoothly in a browser and on mobile, so you can play wherever it suits you.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain game categories\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots: classics, Megaways, cluster, bonus buy, high multipliers\n\n<\/li>\n            <li>• \nJackpot slots: titles with major prize mechanics\n\n<\/li>\n            <li>• \nRoulette: European, fast variants, live tables\n\n<\/li>\n            <li>• \nBlackjack: multiple limits, live and digital\n\n<\/li>\n\n\t    <li>• \nBaccarat: classic and live formats\n\n<\/li>\n\t    <li>• \nPoker variants: video poker and quick formats (when available)\n\n<\/li>\n\t    <li>• \nLive Game Shows: bonus rounds and multiplier prizes\n\n<\/li>\n\t    <li>• \nInstant games: rapid rounds for a quick tempo\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFireVegas betting limits: play at your own pace\n<\/h3>\n\n<p> \nWe support a wide betting range so you can stay comfortable — from low spins for relaxed sessions to higher limits for bigger thrills. Across most categories, you can match risk level and stake size to your bankroll. For full clarity, we display limits inside each game interface and at individual live tables. When a bonus is active, a promotional max‑bet rule may apply to keep wagering fair and transparent.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #8524F3;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (per spin)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (bonus buy)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (digital)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (digital)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$2,000<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat (live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$200<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFireVegas tournaments & leaderboards: how to join and win\n<\/h3>\n\n<p>\nWe run tournaments and leaderboards to keep participation effortless: open the events section, pick an active promo, and play the qualifying titles. Points are tracked automatically, and your progress appears on the leaderboard in real time. In slot tournaments, scoring typically reflects spins and total wagering volume, and some formats may include selected game mechanics as a multiplier. In live leaderboards, points can be based on total stakes at tables and the number of completed rounds. The more consistent your activity during the event window, the higher you climb and the bigger the prize potential. We keep rules fair: only real-money bets count, and promo rules (such as max bet during a bonus) apply automatically. Prize pools are distributed across multiple ranks, so winning isn’t limited to first place. When the event ends, results are confirmed and prizes are credited within the stated timeframe. To receive rewards smoothly, you simply follow promo conditions and keep your account verified. You can always monitor your rank, adjust your approach, and choose games that help you score faster.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick useful notes\n\n\n<\/h4>\n\n <ul>\n            <li>• \nWhere to join: Tournaments \/ Leaderboards section in the lobby\n\n<\/li>\n            <li>• \nHow points are earned: spins, wagering volume, sometimes activity time\n\n<\/li>\n            <li>• \nWhat counts: only real bets on qualifying games\n\n<\/li>\n            <li>• \nRank tracking: leaderboard updates in real time\n\n<\/li>\n\t    <li>• \nPrize collection: finish the period, meet terms, wait for crediting\n\n<\/li>\n\t    <li>• \nHow to speed up: pick fast-round games and keep a steady pace\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Do I need verification?",
+                            "answer": "Yes, we use identity checks to protect your account and ensure secure payouts, especially before your first withdrawal.\n\n\n"
+                        },
+                        {
+                            "title": "Can I play in demo mode?",
+                            "answer": "Many games include a demo mode so you can learn mechanics and bonus features.\n\n\n"
+                        },
+                        {
+                            "title": "How do I know games are fair?",
+                            "answer": "We use established providers and maintain platform integrity so outcomes remain fair.\n\n\n"
+                        },
+                        {
+                            "title": "Do you offer responsible gaming tools?",
+                            "answer": "Yes, you can set limits, take time‑outs, or choose self‑exclusion to stay in control.\n\n\n"
+                        },
+                        {
+                            "title": "How do I get personalised offers?",
+                            "answer": "Stay active, verify contacts, and check the promos area — we tailor offers around your preferences.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
